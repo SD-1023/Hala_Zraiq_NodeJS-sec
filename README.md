@@ -27,3 +27,26 @@ The project is organized into the following structure:
   - `index.ts`: Entry point for the application.
 - `books.json`: JSON file to store the book data.
 
+  ## Getting Started
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/SD-1023/Hala_Zraiq_NodeJS-sec
+    cd Hala_Zraiq_NodeJS-sec
+    ```
+
+2. **Install Dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Run the Application:**
+
+    ```bash
+    npm start
+    ```
+
+    The application will be accessible at [http://localhost:3000](http://localhost:3000).
+
