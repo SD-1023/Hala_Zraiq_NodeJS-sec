@@ -2,13 +2,12 @@
 
 ## Overview
 
-The Library Management System is a TypeScript-based web application that allows users to manage a collection of books. It provides functionalities to view the list of books, search for books by name, view details of a specific book, and add new books to the collection.
+The Library Management System is a TypeScript-based web application that allows users to manage a collection of books. It provides functionalities ,search for books by name, view details of a specific book, and add new books to the collection.
 
 ## Features
 
 - **View Books:** See a list of all available books in the library.
 - **Search Books:** Search for books by name, and get filtered results.
-- **View Book Details:** View detailed information about a specific book.
 - **Add New Book:** Add a new book to the library with details like name, author, ISBN, and ID.
 
 ## Technologies Used
